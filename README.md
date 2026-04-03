@@ -2,8 +2,6 @@
 
 NLP system for classifying text into four communication styles — **assertive**, **aggressive**, **passive**, and **passive-aggressive** — grounded in clinical psychology taxonomy.
 
-Built as a BSc NLP project at IU International University of Applied Sciences.
-
 ## Communication Styles
 
 | Style              | Description                                                        |
@@ -65,6 +63,3 @@ pre-commit install
 python -c "import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0))"
 ```
 
-## License
-
-This project is developed for academic purposes as part of a BSc thesis at IU.
