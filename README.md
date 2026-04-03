@@ -15,20 +15,30 @@ NLP system for classifying text into four communication styles — **assertive**
 
 ```
 communication-style-classifier/
-├── src/                        # Source code
-│   ├── data/                   #   Data loading & preprocessing
-│   ├── models/                 #   Model definitions
-│   ├── training/               #   Training loops & scripts
-│   └── evaluation/             #   Metrics & evaluation
-├── data/                       # Raw & processed datasets (gitignored)
-│   ├── raw/
-│   └── processed/
-├── models/                     # Saved checkpoints (gitignored)
-├── notebooks/                  # Exploratory Jupyter notebooks
-├── configs/                    # Training & model configs
-├── requirements.txt            # Pinned dependencies
-├── pyproject.toml              # Ruff configuration
-└── .pre-commit-config.yaml     # Pre-commit hooks
+├── config/
+│   ├── paths.py                       # Central path definitions
+│   ├── training_config.py             # Hyperparameters for all models
+│   └── annotation_config.py           # LLM annotation settings
+├── data/
+│   ├── raw/                           # Unprocessed downloads (gitignored)
+│   ├── gold_standard/                 # Expert-labeled test set (tracked)
+│   ├── annotated/                     # LLM-labeled training data (gitignored)
+│   └── cleaned/                       # Final training data (gitignored)
+├── src/
+│   ├── collection/                    # Data loaders (HuggingFace, Arctic Shift, clinical)
+│   ├── preprocessing/                 # Text cleaning, filtering, dedup, anonymization
+│   ├── annotation/                    # LLM batch annotation & validation
+│   ├── cleaning/                      # Cleanlab label cleaning
+│   ├── training/                      # SVM, DeBERTa, RoBERTa training
+│   └── evaluation/                    # Metrics, statistical tests, error analysis
+├── scripts/                           # Pipeline entry points
+├── notebooks/                         # EDA & visualization notebooks
+├── models/                            # Saved checkpoints (gitignored)
+├── results/                           # Tables, figures, logs
+├── report/                            # References and report materials
+├── requirements.txt
+├── pyproject.toml
+└── .pre-commit-config.yaml
 ```
 
 ## Setup
@@ -42,18 +52,13 @@ communication-style-classifier/
 ### Installation
 
 ```bash
-# Clone the repository
 git clone https://github.com/dinosmuc/communication-style-classifier.git
 cd communication-style-classifier
 
-# Create and activate a virtual environment
 python -m venv .venv
-source .venv/bin/activate   # Linux / macOS
+source .venv/bin/activate
 
-# Install dependencies
 pip install -r requirements.txt
-
-# Install pre-commit hooks
 pre-commit install
 ```
 
@@ -62,4 +67,3 @@ pre-commit install
 ```bash
 python -c "import torch; print(torch.cuda.is_available(), torch.cuda.get_device_name(0))"
 ```
-

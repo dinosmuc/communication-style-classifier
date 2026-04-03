@@ -42,15 +42,13 @@ coverage.xml
 
 # === Project-specific ===
 
-# Data (raw, processed, external)
-data/*
-!data/**/
-!data/**/.gitkeep
+# Data — ignore raw, annotated, cleaned (large); track gold_standard and data_card.md
+data/raw/
+data/annotated/
+data/cleaned/
 
-# Trained model checkpoints & artifacts
-models/*
-!models/**/
-!models/**/.gitkeep
+# Trained model checkpoints
+models/
 
 # Weights & Biases
 wandb/
