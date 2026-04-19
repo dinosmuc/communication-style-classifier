@@ -42,7 +42,7 @@ coverage.xml
 
 # === Project-specific ===
 
-# Data — ignore raw, annotated, cleaned (large); track gold_standard and data_card.md
+# Data — ignore raw, annotated, cleaned (large); track ground_truth and data_card.md
 data/raw/
 data/annotated/
 data/cleaned/

@@ -1,0 +1,3160 @@
+[
+  {
+    "id": "gs_001",
+    "previous_id": "gs_001",
+    "original_id": "gs_005",
+    "text": "When you are late for a meeting with me, I get pretty frustrated. I wish that you would be on time more often.",
+    "label": "assertive",
+    "source": "SAMHSA Anger Management Manual - Session 1, p.11",
+    "notes": "Assertive way of handling a friend being repeatedly late",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Sorry I'm late again."
+      },
+      {
+        "speaker": "B",
+        "text": "When you are late for a meeting with me, I get pretty frustrated. I wish that you would be on time more often."
+      }
+    ],
+    "context_basis": "SAMHSA Session 1 p.11 describes scenario: 'if you were upset because a friend was repeatedly late for meetings'",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_002",
+    "previous_id": "gs_002",
+    "original_id": "gs_006",
+    "text": "Joe, I've noticed you've been late for the last few days when I've come to pick you up. Today, I realized that I was starting to feel frustrated and a bit taken for granted. When you are late, we are both late for the meeting, which makes me uncomfortable. I like to be on time. I'm wondering if you can make an effort to be on time in the future.",
+    "label": "assertive",
+    "source": "SAMHSA Anger Management Manual - Sessions 7&8, p.42",
+    "notes": "Frank's assertive dialogue with Joe using Conflict Resolution Model",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Sure. Is something wrong?"
+      },
+      {
+        "speaker": "B",
+        "text": "Joe, I've noticed you've been late for the last few days when I've come to pick you up. Today, I realized that I was starting to feel frustrated and a bit taken for granted. When you are late, we are both late for the meeting, which makes me uncomfortable. I like to be on time. I'm wondering if you can make an effort to be on time in the future."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_003",
+    "previous_id": "gs_012",
+    "original_id": "gs_018",
+    "text": "if it wouldn't be too much trouble...",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive verbal phrase",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "if it wouldn't be too much trouble..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_004",
+    "previous_id": "gs_013",
+    "original_id": "gs_019",
+    "text": "I wouldn't normally say anything",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive justification phrase",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wouldn't normally say anything"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_005",
+    "previous_id": "gs_014",
+    "original_id": "gs_020",
+    "text": "I'm terribly sorry to bother you..",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive apology phrase",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm terribly sorry to bother you.."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_006",
+    "previous_id": "gs_015",
+    "original_id": "gs_021",
+    "text": "Its only my opinion",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive qualifier",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Its only my opinion"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_007",
+    "previous_id": "gs_016",
+    "original_id": "gs_022",
+    "text": "I might be wrong",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive qualifier",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I might be wrong"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_008",
+    "previous_id": "gs_017",
+    "original_id": "gs_023",
+    "text": "It's not important",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive self-dismissal",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "It's not important"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_009",
+    "previous_id": "gs_018",
+    "original_id": "gs_024",
+    "text": "It doesn't really matter",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive self-dismissal",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "It doesn't really matter"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_010",
+    "previous_id": "gs_019",
+    "original_id": "gs_025",
+    "text": "I'm useless...hopeless",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive self put-down",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm useless...hopeless"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_011",
+    "previous_id": "gs_020",
+    "original_id": "gs_026",
+    "text": "You know me...",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive self put-down",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You know me..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_012",
+    "previous_id": "gs_021",
+    "original_id": "gs_027",
+    "text": "You'd better watch out",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive threat",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You'd better watch out"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_013",
+    "previous_id": "gs_022",
+    "original_id": "gs_028",
+    "text": "You've got to be kidding...",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive put-down",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You've got to be kidding..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_014",
+    "previous_id": "gs_023",
+    "original_id": "gs_029",
+    "text": "Don't be so stupid",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive put-down",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Don't be so stupid"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_015",
+    "previous_id": "gs_024",
+    "original_id": "gs_030",
+    "text": "I haven't got problems like yours",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive boastfulness",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I haven't got problems like yours"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_016",
+    "previous_id": "gs_025",
+    "original_id": "gs_031",
+    "text": "Nobody want to behave like that",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive opinion expressed as fact [sic in original source: 'want' not 'wants']",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Nobody want to behave like that"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_017",
+    "previous_id": "gs_026",
+    "original_id": "gs_032",
+    "text": "That's a useless way to do it",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive opinion expressed as fact",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That's a useless way to do it"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_018",
+    "previous_id": "gs_027",
+    "original_id": "gs_033",
+    "text": "Haven't you finished that yet?",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive threatening question",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Haven't you finished that yet?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_019",
+    "previous_id": "gs_028",
+    "original_id": "gs_034",
+    "text": "Why on earth did you do it like that?",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive threatening question",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Why on earth did you do it like that?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_020",
+    "previous_id": "gs_029",
+    "original_id": "gs_035",
+    "text": "What are your thoughts on this",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive co-operative phrase",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "What are your thoughts on this"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_021",
+    "previous_id": "gs_030",
+    "original_id": "gs_036",
+    "text": "My experience is different",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive distinction between fact and opinion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "My experience is different"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_022",
+    "previous_id": "gs_031",
+    "original_id": "gs_037",
+    "text": "I feel irritated when you interrupt me",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive constructive criticism without blame",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I feel irritated when you interrupt me"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_023",
+    "previous_id": "gs_032",
+    "original_id": "gs_038",
+    "text": "How does this fit in with your ideas",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive seeking others' opinions",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "How does this fit in with your ideas"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_024",
+    "previous_id": "gs_033",
+    "original_id": "gs_039",
+    "text": "How can we get around this problem?",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive willingness to explore solutions",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "How can we get around this problem?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_025",
+    "previous_id": "gs_034",
+    "original_id": "gs_040",
+    "text": "I need to be away by 5 o'clock",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Basic assertion - I statement",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I need to be away by 5 o'clock"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_026",
+    "previous_id": "gs_035",
+    "original_id": "gs_041",
+    "text": "I feel pleased with the way the issue has been resolved",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Basic assertion - I statement",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I feel pleased with the way the issue has been resolved"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_027",
+    "previous_id": "gs_036",
+    "original_id": "gs_042",
+    "text": "I haven't thought about that before, I'd like time to think about your idea.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Basic assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I haven't thought about that before, I'd like time to think about your idea."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_028",
+    "previous_id": "gs_037",
+    "original_id": "gs_043",
+    "text": "I thought your presentation was really good.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Basic assertion - giving praise",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I thought your presentation was really good."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_029",
+    "previous_id": "gs_038",
+    "original_id": "gs_044",
+    "text": "I like it when you help me.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Basic assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I like it when you help me."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_030",
+    "previous_id": "gs_039",
+    "original_id": "gs_045",
+    "text": "I appreciate that you don't like the new procedure, however, until it's changed, I'd like you to keep working on it.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Empathic assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I appreciate that you don't like the new procedure, however, until it's changed, I'd like you to keep working on it."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_031",
+    "previous_id": "gs_040",
+    "original_id": "gs_046",
+    "text": "I know you're busy at the moment, John, but I'd like to make a request of you.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Empathic assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I know you're busy at the moment, John, but I'd like to make a request of you."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_032",
+    "previous_id": "gs_041",
+    "original_id": "gs_047",
+    "text": "I recognise that it's difficult to be precise on costs, however, I need a rough estimate.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Empathic assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I recognise that it's difficult to be precise on costs, however, I need a rough estimate."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_033",
+    "previous_id": "gs_042",
+    "original_id": "gs_048",
+    "text": "If you continue to withhold the information, I am left with no option, but to bring in the production director. I'd prefer not to.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Consequence assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "If you continue to withhold the information, I am left with no option, but to bring in the production director. I'd prefer not to."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_034",
+    "previous_id": "gs_043",
+    "original_id": "gs_049",
+    "text": "I'm not prepared, John, to let any of my staff cooperate with yours on the project, unless you give them access to the same facilities that your people have.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Consequence assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm not prepared, John, to let any of my staff cooperate with yours on the project, unless you give them access to the same facilities that your people have."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_035",
+    "previous_id": "gs_044",
+    "original_id": "gs_050",
+    "text": "If this occurs again, I'm left with no alternative, but to apply the formal disciplinary procedure. I'd prefer not to.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Consequence assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "If this occurs again, I'm left with no alternative, but to apply the formal disciplinary procedure. I'd prefer not to."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_036",
+    "previous_id": "gs_045",
+    "original_id": "gs_051",
+    "text": "As I understand it, we agreed that Project A was top priority. Now you're asking me to give more time to Project B. I'd like to clarify which is now the priority.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Discrepancy assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "As I understand it, we agreed that Project A was top priority. Now you're asking me to give more time to Project B. I'd like to clarify which is now the priority."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_037",
+    "previous_id": "gs_046",
+    "original_id": "gs_052",
+    "text": "Paul, on the one hand you are saying that you want to improve cooperation between our departments, but on the other hand you make statements about us that make it difficult for us to cooperate. I agree that we can improve the situation, so I'd like to talk about that.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Discrepancy assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Paul, on the one hand you are saying that you want to improve cooperation between our departments, but on the other hand you make statements about us that make it difficult for us to cooperate. I agree that we can improve the situation, so I'd like to talk about that."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_038",
+    "previous_id": "gs_047",
+    "original_id": "gs_054",
+    "text": "When you come home late, without telling me before, I worry that something is wrong and I feel angry. I would really appreciate it if you could ring and let me know beforehand.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Negative feeling assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "When you come home late, without telling me before, I worry that something is wrong and I feel angry. I would really appreciate it if you could ring and let me know beforehand."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_039",
+    "previous_id": "gs_048",
+    "original_id": "gs_055",
+    "text": "When you continually interrupt me when I'm working on the balance sheets, it means I have to start all over again. I'm feeling irritated by this, so I would prefer you to wait until I have finished.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4",
+    "notes": "Negative feeling assertion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "When you continually interrupt me when I'm working on the balance sheets, it means I have to start all over again. I'm feeling irritated by this, so I would prefer you to wait until I have finished."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_040",
+    "previous_id": "gs_049",
+    "original_id": "gs_056",
+    "text": "I can't lend you any money. I've run out.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4, Broken Record example",
+    "notes": "Broken record technique - assertive refusal",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Can I borrow $20 from you?"
+      },
+      {
+        "speaker": "B",
+        "text": "I can't lend you any money. I've run out."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_041",
+    "previous_id": "gs_050",
+    "original_id": "gs_057",
+    "text": "I bought this clock here yesterday. The button for moving the hands isn't working properly so I'd like to exchange it please.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4, Broken Record escalation example",
+    "notes": "Basic assertion - product exchange",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I bought this clock here yesterday. The button for moving the hands isn't working properly so I'd like to exchange it please."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_042",
+    "previous_id": "gs_051",
+    "original_id": "gs_058",
+    "text": "I realise that would have made things easier, however, I would still like to replace it.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4, Broken Record escalation example",
+    "notes": "Empathic assertion in escalation",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "The clock should have been checked before it left the shop."
+      },
+      {
+        "speaker": "B",
+        "text": "I realise that would have made things easier, however, I would still like to replace it."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_043",
+    "previous_id": "gs_052",
+    "original_id": "gs_059",
+    "text": "I would like the item changed. If you are not prepared to do that I will take the matter up with your Head Office. I would prefer to resolve it now.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 4, Broken Record escalation example",
+    "notes": "Consequence assertion in escalation",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I would like the item changed. If you are not prepared to do that I will take the matter up with your Head Office. I would prefer to resolve it now."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_044",
+    "previous_id": "gs_053",
+    "original_id": "gs_060",
+    "text": "I know you're looking forward to a walk this afternoon but I can't come.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 6",
+    "notes": "Reflecting no",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I know you're looking forward to a walk this afternoon but I can't come."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_045",
+    "previous_id": "gs_054",
+    "original_id": "gs_061",
+    "text": "I can't have lunch with you because I have a report that needs to be finished by tomorrow.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 6",
+    "notes": "Reasoned no",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I can't have lunch with you because I have a report that needs to be finished by tomorrow."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_046",
+    "previous_id": "gs_055",
+    "original_id": "gs_062",
+    "text": "I can't have lunch with you today, but I could make it sometime next week.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 6",
+    "notes": "Raincheck no",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I can't have lunch with you today, but I could make it sometime next week."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_047",
+    "previous_id": "gs_056",
+    "original_id": "gs_063",
+    "text": "Is there any other time you'd like to go?",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 6",
+    "notes": "Enquiring no",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Is there any other time you'd like to go?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_048",
+    "previous_id": "gs_057",
+    "original_id": "gs_064",
+    "text": "I really liked the way you wrote your report; I think it could be even better if you focused more on improving your spelling.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Constructive criticism example",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I really liked the way you wrote your report; I think it could be even better if you focused more on improving your spelling."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_049",
+    "previous_id": "gs_058",
+    "original_id": "gs_065",
+    "text": "This report is atrocious, your spelling is appalling.",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Destructive criticism example",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "This report is atrocious, your spelling is appalling."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_050",
+    "previous_id": "gs_059",
+    "original_id": "gs_066",
+    "text": "How dare you, I'm not late. You're the one who is always late.",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Aggressive response to criticism - counterattack",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "How dare you, I'm not late. You're the one who is always late."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_051",
+    "previous_id": "gs_060",
+    "original_id": "gs_067",
+    "text": "Yes you're right I am...., I'm useless, and I've got to stop",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Passive response to criticism - agreeing and self-reproach",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Yes you're right I am...., I'm useless, and I've got to stop"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_052",
+    "previous_id": "gs_061",
+    "original_id": "gs_068",
+    "text": "Yes, it's true, I'm not very tidy.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Negative assertion - calmly agreeing with valid criticism",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Your desk is very messy. You are very disorganised."
+      },
+      {
+        "speaker": "B",
+        "text": "Yes, it's true, I'm not very tidy."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_053",
+    "previous_id": "gs_062",
+    "original_id": "gs_069",
+    "text": "In what ways do you think I'm shy?",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Negative inquiry - requesting specific criticism",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You'll find that difficult won't you, because you are shy?"
+      },
+      {
+        "speaker": "B",
+        "text": "In what ways do you think I'm shy?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_054",
+    "previous_id": "gs_063",
+    "original_id": "gs_070",
+    "text": "No, I'm not always late. I may be late occasionally, but I'm certainly not always late.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Assertive disagreement with destructive criticism",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're always late."
+      },
+      {
+        "speaker": "B",
+        "text": "No, I'm not always late. I may be late occasionally, but I'm certainly not always late."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_055",
+    "previous_id": "gs_064",
+    "original_id": "gs_071",
+    "text": "You're not reliable. You forgot to pick up the kids, you let the bills pile up until we could lose the roof over our head, and I can't ever count on you to be there when I need you.",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Destructive criticism - overgeneralized attack",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're not reliable. You forgot to pick up the kids, you let the bills pile up until we could lose the roof over our head, and I can't ever count on you to be there when I need you."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_056",
+    "previous_id": "gs_065",
+    "original_id": "gs_072",
+    "text": "You're certainly right that I did forget to pick up the kids last week after their swimming lesson.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Fogging - agreeing in part",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're not reliable. You forgot to pick up the kids, you let the bills pile up until we could lose the roof over our head, and I can't ever count on you to be there when I need you."
+      },
+      {
+        "speaker": "B",
+        "text": "You're certainly right that I did forget to pick up the kids last week after their swimming lesson."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_057",
+    "previous_id": "gs_066",
+    "original_id": "gs_073",
+    "text": "You haven't got a job, you're completely unproductive.",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Destructive criticism",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You haven't got a job, you're completely unproductive."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_058",
+    "previous_id": "gs_067",
+    "original_id": "gs_074",
+    "text": "Yes, it's true, I don't have a job.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Fogging - agreeing in part, defusing aggression",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You haven't got a job, you're completely unproductive."
+      },
+      {
+        "speaker": "B",
+        "text": "Yes, it's true, I don't have a job."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_059",
+    "previous_id": "gs_068",
+    "original_id": "gs_075",
+    "text": "You're right I may get gum disease.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Fogging - agreeing in probability",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "If you don't floss your teeth, you'll get gum disease and be sorry for the rest of your life."
+      },
+      {
+        "speaker": "B",
+        "text": "You're right I may get gum disease."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_060",
+    "previous_id": "gs_069",
+    "original_id": "gs_076",
+    "text": "You're right; if the chisel slips it will really mess up the wood.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Fogging - agreeing in principle",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That's the wrong tool for that job. A chisel like that will slip and mess up the wood. You ought to have a gouge instead."
+      },
+      {
+        "speaker": "B",
+        "text": "You're right; if the chisel slips it will really mess up the wood."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_061",
+    "previous_id": "gs_070",
+    "original_id": "gs_077",
+    "text": "I find the loud music really disturbing could you please turn it down after 8.00pm?",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 7",
+    "notes": "Giving constructive criticism - specific change request",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I find the loud music really disturbing could you please turn it down after 8.00pm?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_062",
+    "previous_id": "gs_071",
+    "original_id": "gs_079",
+    "text": "really, I don't like the colour of the dress at all.",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 9",
+    "notes": "Passive response to compliment - disagreeing",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "really, I don't like the colour of the dress at all."
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "social_function",
+    "exclusion_reason": "Passive label comes from social function of rejecting a compliment; text alone is a direct I-statement that reads as assertive opinion-giving."
+  },
+  {
+    "id": "gs_063",
+    "previous_id": "gs_072",
+    "original_id": "gs_080",
+    "text": "oh, this old thing, it's nothing special.",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 9",
+    "notes": "Passive response to compliment - dismissing",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "oh, this old thing, it's nothing special."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_064",
+    "previous_id": "gs_073",
+    "original_id": "gs_081",
+    "text": "Yeah right, it's just gorgeous isn't it?",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 9",
+    "notes": "Aggressive/sarcastic response to compliment",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Yeah right, it's just gorgeous isn't it?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_065",
+    "previous_id": "gs_074",
+    "original_id": "gs_082",
+    "text": "The overnight shift? The day after my wedding? Um, well, sure, OK. No, no trouble at all.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Giving in to unreasonable demands",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I need you to work the overnight shift the day after your wedding."
+      },
+      {
+        "speaker": "B",
+        "text": "The overnight shift? The day after my wedding? Um, well, sure, OK. No, no trouble at all."
+      }
+    ],
+    "context_basis": "Paterson Ch.2 presents this as an example of giving in to unreasonable demands from others",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_066",
+    "previous_id": "gs_075",
+    "original_id": "gs_083",
+    "text": "Bob's Salmonella Shack for dinner? Oh, uh, yeah, that sounds like a great place!",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Going along with the crowd despite disagreeing",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Let's go to Bob's Salmonella Shack for dinner!"
+      },
+      {
+        "speaker": "B",
+        "text": "Bob's Salmonella Shack for dinner? Oh, uh, yeah, that sounds like a great place!"
+      }
+    ],
+    "context_basis": "Paterson Ch.2 presents this as an example of going along with the crowd",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_067",
+    "previous_id": "gs_076",
+    "original_id": "gs_084",
+    "text": "My stance on capital punishment...well, what do you think? For jaywalkers? Oh, well, yes, I'd go along with that.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Withholding opinion until others offer theirs, then agreeing",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "My stance on capital punishment...well, what do you think? For jaywalkers? Oh, well, yes, I'd go along with that."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_068",
+    "previous_id": "gs_077",
+    "original_id": "gs_086",
+    "text": "No one will notice me if I wear these pants. Perfect. I'll buy them.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Avoiding anything that might attract comment or disapproval",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "No one will notice me if I wear these pants. Perfect. I'll buy them."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_069",
+    "previous_id": "gs_078",
+    "original_id": "gs_087",
+    "text": "Oh, no, I didn't mean that. I feel the same as you.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Passively denying own preferences",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Wait, it sounds like you disagree with me."
+      },
+      {
+        "speaker": "B",
+        "text": "Oh, no, I didn't mean that. I feel the same as you."
+      }
+    ],
+    "context_basis": "Paterson Ch.16 describes this as passive denial of own likes, dislikes, preferences, and values when differences arise",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_070",
+    "previous_id": "gs_079",
+    "original_id": "gs_088",
+    "text": "No offense, but you just don't understand business.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Mike's story",
+    "notes": "Dismissive aggressive statement",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "No offense, but you just don't understand business."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_071",
+    "previous_id": "gs_080",
+    "original_id": "gs_089",
+    "text": "You don't know what you want. I know what you want.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressively denying other person's autonomy",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You don't know what you want. I know what you want."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_072",
+    "previous_id": "gs_081",
+    "original_id": "gs_090",
+    "text": "Damn, I forgot them again.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Alan's story",
+    "notes": "PA excuse for not completing agreed tasks",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Did you bring the questionnaires?"
+      },
+      {
+        "speaker": "B",
+        "text": "Damn, I forgot them again."
+      }
+    ],
+    "context_basis": "Paterson Ch.2 Alan's story: Alan repeatedly 'forgot' to bring agreed-upon questionnaires to therapy sessions",
+    "text_classifiable": false,
+    "exclusion_category": "pattern_dependent",
+    "exclusion_reason": "PA label requires knowing Alan's weeks-long pattern of strategic forgetting; single instance indistinguishable from genuine mistake."
+  },
+  {
+    "id": "gs_073",
+    "previous_id": "gs_082",
+    "original_id": "gs_091",
+    "text": "No, I really wanted to be on time, but the bus was late.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "PA denial of intent with plausible excuse",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're late again."
+      },
+      {
+        "speaker": "B",
+        "text": "No, I really wanted to be on time, but the bus was late."
+      }
+    ],
+    "context_basis": "Paterson Ch.2 describes this as PA denial of intent when confronted about chronic lateness",
+    "text_classifiable": false,
+    "exclusion_category": "pattern_dependent",
+    "exclusion_reason": "PA label requires knowing speaker's chronic pattern of rotating plausible excuses; single excuse indistinguishable from honest explanation."
+  },
+  {
+    "id": "gs_074",
+    "previous_id": "gs_083",
+    "original_id": "gs_092",
+    "text": "Honey, alcoholism is a disease, so I can't be held responsible for any of my actions when I'm drunk.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "PA avoidance of responsibility through self-labeling",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Honey, alcoholism is a disease, so I can't be held responsible for any of my actions when I'm drunk."
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "speaker_intent",
+    "exclusion_reason": "PA label requires knowing speaker strategically uses disease framing to dodge accountability; text alone reads as aggressive blame-deflection."
+  },
+  {
+    "id": "gs_075",
+    "previous_id": "gs_084",
+    "original_id": "gs_093",
+    "text": "You're right, I should never have asked you to work late. I'm the worst manager in the company!",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "PA admitting guilt to avoid responsibility for change",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I didn't appreciate being asked to work late."
+      },
+      {
+        "speaker": "B",
+        "text": "You're right, I should never have asked you to work late. I'm the worst manager in the company!"
+      }
+    ],
+    "context_basis": "Paterson Ch.16 presents this as exaggerated self-deprecation to avoid genuine responsibility for change",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_076",
+    "previous_id": "gs_085",
+    "original_id": "gs_094",
+    "text": "I notice that the lawn hasn't been cut in some time. I remember that a couple of months ago we agreed that it would be your job to cut it once a week. I don't like to see it get that long, but I feel frustrated nagging you about it all the time. I'd like you to do it once a week, as we agreed earlier. That way I won't feel I have to get after you about it.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16, DESO script example",
+    "notes": "Assertive DESO script - Describe, Express, Specify, Outcome",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I notice that the lawn hasn't been cut in some time. I remember that a couple of months ago we agreed that it would be your job to cut it once a week. I don't like to see it get that long, but I feel frustrated nagging you about it all the time. I'd like you to do it once a week, as we agreed earlier. That way I won't feel I have to get after you about it."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_077",
+    "previous_id": "gs_086",
+    "original_id": "gs_095",
+    "text": "Jonas, I'm concerned that you're not returning my calls because I have offended you in some way. Could that be true?",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Assertive inquiry about symbolic value rather than confronting with assumptions",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Jonas, I'm concerned that you're not returning my calls because I have offended you in some way. Could that be true?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_078",
+    "previous_id": "gs_087",
+    "original_id": "gs_097",
+    "text": "I have to leave for my appointment in just a few minutes. When would be a good time for us to set aside to talk about this?",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Assertive postponement of confrontation",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "We need to talk about what happened yesterday."
+      },
+      {
+        "speaker": "B",
+        "text": "I have to leave for my appointment in just a few minutes. When would be a good time for us to set aside to talk about this?"
+      }
+    ],
+    "context_basis": "Paterson Ch.16 presents this as what to say when a confrontation is sprung on you at a bad time",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_079",
+    "previous_id": "gs_088",
+    "original_id": "gs_098",
+    "text": "I need some time to think out what I want to say. Would you be willing to meet Thursday evening to talk about it?",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Assertive request for time to prepare",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "We need to discuss the issue with the project."
+      },
+      {
+        "speaker": "B",
+        "text": "I need some time to think out what I want to say. Would you be willing to meet Thursday evening to talk about it?"
+      }
+    ],
+    "context_basis": "Paterson Ch.16 presents this as negotiating a time for a difficult discussion",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_080",
+    "previous_id": "gs_089",
+    "original_id": "gs_099",
+    "text": "Stop demanding we go to that stupid beach!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive attack when the real issue is your own passivity",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Stop demanding we go to that stupid beach!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_081",
+    "previous_id": "gs_090",
+    "original_id": "gs_100",
+    "text": "Stop borrowing my tools!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive attack when you need to change your own behavior",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Stop borrowing my tools!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_082",
+    "previous_id": "gs_091",
+    "original_id": "gs_101",
+    "text": "Listen, I'm fine going to the beach once or twice a year, but the rest of the time you're on your own.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Assertive boundary-setting with compromise",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Listen, I'm fine going to the beach once or twice a year, but the rest of the time you're on your own."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_083",
+    "previous_id": "gs_092",
+    "original_id": "gs_102",
+    "text": "Would it be okay if I didn't...?",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Passive asking permission to say no",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Would it be okay if I didn't...?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_084",
+    "previous_id": "gs_093",
+    "original_id": "gs_103",
+    "text": "Will you be annoyed if I say no?",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Passive asking permission to refuse",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Will you be annoyed if I say no?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_085",
+    "previous_id": "gs_094",
+    "original_id": "gs_104",
+    "text": "You don't see why I can't? Let's see if I can explain it better...",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Passive waiting for acceptance - assuming you need to convince others",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I don't see why you can't do it."
+      },
+      {
+        "speaker": "B",
+        "text": "You don't see why I can't? Let's see if I can explain it better..."
+      }
+    ],
+    "context_basis": "Paterson Ch.14 presents this as passive pattern of over-justifying a refusal until the other person accepts it",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_086",
+    "previous_id": "gs_095",
+    "original_id": "gs_105",
+    "text": "No, I'm not willing to do that.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Assertive clear refusal",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "No, I'm not willing to do that."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_087",
+    "previous_id": "gs_096",
+    "original_id": "gs_106",
+    "text": "No, as I've said, I'm not willing to do that.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Assertive strengthened refusal",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "No, as I've said, I'm not willing to do that."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_088",
+    "previous_id": "gs_097",
+    "original_id": "gs_107",
+    "text": "I can see that you don't agree. Nevertheless, that's my decision.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Assertive decline without waiting for acceptance",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I can see that you don't agree. Nevertheless, that's my decision."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_089",
+    "previous_id": "gs_098",
+    "original_id": "gs_108",
+    "text": "No, I like to have that one in the kitchen.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Assertive decline and move on",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Can I have your melon baller?"
+      },
+      {
+        "speaker": "B",
+        "text": "No, I like to have that one in the kitchen."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_090",
+    "previous_id": "gs_099",
+    "original_id": "gs_109",
+    "text": "Nope, I've decided I'm already doing enough.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14, Amelia's story",
+    "notes": "Assertive refusal of additional work",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Nope, I've decided I'm already doing enough."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_091",
+    "previous_id": "gs_100",
+    "original_id": "gs_110",
+    "text": "Oh, I can drive you.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Passive volunteering before even being asked",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wonder how to get to the hotel..."
+      },
+      {
+        "speaker": "B",
+        "text": "Oh, I can drive you."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_092",
+    "previous_id": "gs_101",
+    "original_id": "gs_111",
+    "text": "Why, oh why, do people ask me to do all these things? Don't they see that they're being unreasonable? When will they stop?",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14",
+    "notes": "Passive lament - wanting others to stop asking rather than learning to refuse",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Why, oh why, do people ask me to do all these things? Don't they see that they're being unreasonable? When will they stop?"
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "social_function",
+    "exclusion_reason": "Passive label comes from internal lament rather than direct boundary-setting; rhetorical dramatic language reads as aggressive venting."
+  },
+  {
+    "id": "gs_093",
+    "previous_id": "gs_102",
+    "original_id": "gs_112",
+    "text": "My son is too inconsiderate.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive personality label rather than behavioral description",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "My son is too inconsiderate."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_094",
+    "previous_id": "gs_103",
+    "original_id": "gs_113",
+    "text": "She thinks that because she's been here longer, I should be her servant.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Passive symbolic interpretation of coworker behavior",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "She thinks that because she's been here longer, I should be her servant."
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "social_function",
+    "exclusion_reason": "Passive label comes from internal rumination rather than direct confrontation; text contains hostile attribution and exaggeration that reads as aggressive."
+  },
+  {
+    "id": "gs_095",
+    "previous_id": "gs_104",
+    "original_id": "gs_114",
+    "text": "He's doing this because he's a racist.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive attribution of motive without evidence",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "He's doing this because he's a racist."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_096",
+    "previous_id": "gs_105",
+    "original_id": "gs_115",
+    "text": "She's an inconsiderate slob.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive personality labeling",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "She's an inconsiderate slob."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_097",
+    "previous_id": "gs_106",
+    "original_id": "gs_116",
+    "text": "What are you talking about? Last March I pruned the rose bushes!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Aggressive defensive response to confrontation",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're too inconsiderate."
+      },
+      {
+        "speaker": "B",
+        "text": "What are you talking about? Last March I pruned the rose bushes!"
+      }
+    ],
+    "context_basis": "Paterson Ch.16 describes this as a defensive response when told 'My son is too inconsiderate'",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_098",
+    "previous_id": "gs_107",
+    "original_id": "gs_117",
+    "text": "How dare you say no to me? I'll show you!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Why Do People Act Passively",
+    "notes": "Aggressive parent punishing child for assertiveness",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "No, I don't want to do that."
+      },
+      {
+        "speaker": "B",
+        "text": "How dare you say no to me? I'll show you!"
+      }
+    ],
+    "context_basis": "Paterson Ch.2 describes this as aggressive response in families where assertiveness leads to violence",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_099",
+    "previous_id": "gs_108",
+    "original_id": "gs_119",
+    "text": "You can pay in installments if you like. Do you have any now?",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Hooks example",
+    "notes": "Assertive - offering options while staying on topic, not taking bait",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Vince hasn't paid me for the snow tires I got him—hey, maybe you could get the money from him."
+      },
+      {
+        "speaker": "B",
+        "text": "You can pay in installments if you like. Do you have any now?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_100",
+    "previous_id": "gs_109",
+    "original_id": "gs_120",
+    "text": "This is all ancient history. Why are you such a miser all of a sudden?",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Hooks example (Terry)",
+    "notes": "Aggressive deflection - dismissing legitimate request with personal attack",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You can pay in installments if you like. Do you have any now?"
+      },
+      {
+        "speaker": "B",
+        "text": "This is all ancient history. Why are you such a miser all of a sudden?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_101",
+    "previous_id": "gs_110",
+    "original_id": "gs_121",
+    "text": "That politician you like so much sure has a talent for getting into trouble.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads",
+    "notes": "PA goad - indirect attack disguised as observation",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That politician you like so much sure has a talent for getting into trouble."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_102",
+    "previous_id": "gs_111",
+    "original_id": "gs_122",
+    "text": "I love the way she stands her ground.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads - circuit breaker reply",
+    "notes": "Assertive response to goad - not taking bait, staying positive",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That politician you like so much sure has a talent for getting into trouble."
+      },
+      {
+        "speaker": "B",
+        "text": "I love the way she stands her ground."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_103",
+    "previous_id": "gs_112",
+    "original_id": "gs_123",
+    "text": "Accounting is a fine profession if you'd rather count money than really contribute.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads",
+    "notes": "PA goad - backhanded compliment disguising insult",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Accounting is a fine profession if you'd rather count money than really contribute."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_104",
+    "previous_id": "gs_113",
+    "original_id": "gs_124",
+    "text": "I think it's a fine profession too. That's why I'm doing it.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads - circuit breaker reply",
+    "notes": "Assertive - calm, owns position without defending",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Accounting is a fine profession if you'd rather count money than really contribute."
+      },
+      {
+        "speaker": "B",
+        "text": "I think it's a fine profession too. That's why I'm doing it."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_105",
+    "previous_id": "gs_114",
+    "original_id": "gs_125",
+    "text": "I think a competent person would have finished painting this by now.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads",
+    "notes": "Aggressive goad - indirect insult to competence",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I think a competent person would have finished painting this by now."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_106",
+    "previous_id": "gs_115",
+    "original_id": "gs_126",
+    "text": "You're probably right. Good thing I don't paint for a living.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads - circuit breaker reply",
+    "notes": "Assertive - deflects with humor, doesn't take bait",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I think a competent person would have finished painting this by now."
+      },
+      {
+        "speaker": "B",
+        "text": "You're probably right. Good thing I don't paint for a living."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_107",
+    "previous_id": "gs_116",
+    "original_id": "gs_127",
+    "text": "That plaid just isn't very feminine, sweetheart.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads",
+    "notes": "PA goad - condescending gender-based criticism",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That plaid just isn't very feminine, sweetheart."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_108",
+    "previous_id": "gs_117",
+    "original_id": "gs_128",
+    "text": "I know. I'll be back by ten.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads - circuit breaker reply",
+    "notes": "Assertive - refuses to engage with provocation, moves on",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That plaid just isn't very feminine, sweetheart."
+      },
+      {
+        "speaker": "B",
+        "text": "I know. I'll be back by ten."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_109",
+    "previous_id": "gs_118",
+    "original_id": "gs_129",
+    "text": "I wish you had called to let me know that you were going to be late.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Principle Eight (Brevity)",
+    "notes": "Assertive - precise, behavioral, brief",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wish you had called to let me know that you were going to be late."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_110",
+    "previous_id": "gs_119",
+    "original_id": "gs_130",
+    "text": "You have no consideration for me!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Principle Eight (Brevity)",
+    "notes": "Aggressive - focuses on character rather than behavior",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You have no consideration for me!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_111",
+    "previous_id": "gs_120",
+    "original_id": "gs_131",
+    "text": "Goddamn it! What have you—I mean—I can't believe this!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.8, Hot anger description",
+    "notes": "Aggressive hot anger - spluttering, loss of verbal control",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Goddamn it! What have you—I mean—I can't believe this!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_112",
+    "previous_id": "gs_121",
+    "original_id": "gs_132",
+    "text": "All I want—and it's really not much—is for you to do your job. Right now. And, if I can also ask, I'd like it done competently.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.8, Cold anger description",
+    "notes": "Aggressive cold anger - controlled, icy, sarcastic precision",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "All I want—and it's really not much—is for you to do your job. Right now. And, if I can also ask, I'd like it done competently."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_113",
+    "previous_id": "gs_122",
+    "original_id": "gs_133",
+    "text": "Even your father doesn't respect you, so shut your face!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.6",
+    "notes": "Aggressive - personal attack using known vulnerability",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Even your father doesn't respect you, so shut your face!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_114",
+    "previous_id": "gs_123",
+    "original_id": "gs_134",
+    "text": "Please, please, tell me what you'd like for once!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.5, Social Barrier",
+    "notes": "Frustrated aggressive demand directed at passive person",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Please, please, tell me what you'd like for once!"
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "social_function",
+    "exclusion_reason": "Aggressive label comes from frustrated demand plus accusatory 'for once'; pleading form and repeated 'please' reads as passive entreaty."
+  },
+  {
+    "id": "gs_115",
+    "previous_id": "gs_124",
+    "original_id": "gs_135",
+    "text": "For God's sake, stop ranting and just say it!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.5, Social Barrier",
+    "notes": "Frustrated aggressive demand directed at aggressive person",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "For God's sake, stop ranting and just say it!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_116",
+    "previous_id": "gs_125",
+    "original_id": "gs_136",
+    "text": "Tell it to my face; don't just whisper it behind my back to everyone else.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.5, Social Barrier",
+    "notes": "Assertive request for direct communication instead of PA",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Tell it to my face; don't just whisper it behind my back to everyone else."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_117",
+    "previous_id": "gs_126",
+    "original_id": "gs_137",
+    "text": "I could be completely wrong about this—and you can tell me if I am—but I have sort of been thinking that...",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.9, Tips - Don't signal lack of confidence",
+    "notes": "Passive undermining of own opinion before stating it",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I could be completely wrong about this—and you can tell me if I am—but I have sort of been thinking that..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_118",
+    "previous_id": "gs_127",
+    "original_id": "gs_138",
+    "text": "I don't have a strong preference, but I'd like to try a seafood restaurant.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.9, Tips - Signal openness",
+    "notes": "Assertive - states preference while acknowledging openness",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I don't have a strong preference, but I'd like to try a seafood restaurant."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_119",
+    "previous_id": "gs_128",
+    "original_id": "gs_139",
+    "text": "Actually, I don't find trans jokes funny.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.9, Tips - Don't let it slide",
+    "notes": "Assertive opinion-giving when others make offensive comments",
+    "context_source": "researcher_constructed",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Did you hear that joke about trans people?"
+      },
+      {
+        "speaker": "B",
+        "text": "Actually, I don't find trans jokes funny."
+      }
+    ],
+    "context_basis": "Paterson Ch.9 describes this as speaking up when someone makes offensive comments or tells tasteless jokes",
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_120",
+    "previous_id": "gs_129",
+    "original_id": "gs_140",
+    "text": "John, I know you haven't asked, but I feel strongly that adopting a bear cub is a mistake.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.9, Tips - Don't let it slide",
+    "notes": "Assertive unsolicited opinion using I statement",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "John, I know you haven't asked, but I feel strongly that adopting a bear cub is a mistake."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_121",
+    "previous_id": "gs_130",
+    "original_id": "gs_141",
+    "text": "Any intelligent person thinks this way.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.9, Tips - Not source of all truth",
+    "notes": "Aggressive - crowding others offstage, implying only one valid view",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Any intelligent person thinks this way."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_122",
+    "previous_id": "gs_131",
+    "original_id": "gs_142",
+    "text": "No, I don't. I look awful.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.10, Denial of compliment",
+    "notes": "Passive rejection of positive feedback through flat denial",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You look great today."
+      },
+      {
+        "speaker": "B",
+        "text": "No, I don't. I look awful."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_123",
+    "previous_id": "gs_132",
+    "original_id": "gs_143",
+    "text": "Why would you think that? You must be deaf.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.10, Questioning",
+    "notes": "Passive rejection of compliment by questioning giver's judgment",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You sang beautifully."
+      },
+      {
+        "speaker": "B",
+        "text": "Why would you think that? You must be deaf."
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "social_function",
+    "exclusion_reason": "Passive label comes from deflecting praise through self-deprecation by proxy; text contains a direct insult that reads as aggressive."
+  },
+  {
+    "id": "gs_124",
+    "previous_id": "gs_133",
+    "original_id": "gs_144",
+    "text": "I guess it wasn't too bad for an old fat guy.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.10, Self-insult",
+    "notes": "Passive self-deprecation to neutralize positive feedback",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You made great time on that last hill."
+      },
+      {
+        "speaker": "B",
+        "text": "I guess it wasn't too bad for an old fat guy."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_125",
+    "previous_id": "gs_134",
+    "original_id": "gs_146",
+    "text": "Thanks. I appreciate the fact that you noticed.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.10, The Alternative",
+    "notes": "Assertive acceptance of compliment",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Thanks. I appreciate the fact that you noticed."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_126",
+    "previous_id": "gs_135",
+    "original_id": "gs_147",
+    "text": "Your new hairdo looks so much better; not nearly so mousy as before.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.11, Backhanded praise",
+    "notes": "PA backhanded compliment - praise that hides an insult",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Your new hairdo looks so much better; not nearly so mousy as before."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_127",
+    "previous_id": "gs_136",
+    "original_id": "gs_148",
+    "text": "Your report was surprisingly good, based on your past work.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.11, Backhanded praise",
+    "notes": "PA backhanded compliment - positive framed against low expectations",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Your report was surprisingly good, based on your past work."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_128",
+    "previous_id": "gs_137",
+    "original_id": "gs_149",
+    "text": "Thank you for cleaning the car; glad you could get around to it at last.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.11, Backhanded praise",
+    "notes": "PA backhanded compliment - thanks that hides criticism",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Thank you for cleaning the car; glad you could get around to it at last."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_129",
+    "previous_id": "gs_138",
+    "original_id": "gs_150",
+    "text": "Stripes look good on you—they're so slimming.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Indirect criticism",
+    "notes": "PA indirect criticism - compliment depends on negative assumption (overweight)",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Stripes look good on you—they're so slimming."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_130",
+    "previous_id": "gs_139",
+    "original_id": "gs_151",
+    "text": "How brave of you to do a presentation on a topic you're so unfamiliar with.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Indirect criticism",
+    "notes": "PA indirect criticism - compliment hides insult about being unprepared",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "How brave of you to do a presentation on a topic you're so unfamiliar with."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_131",
+    "previous_id": "gs_140",
+    "original_id": "gs_152",
+    "text": "I love your innocent and unsophisticated approach to art.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Indirect criticism",
+    "notes": "PA indirect criticism - compliment implies ignorance",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I love your innocent and unsophisticated approach to art."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_132",
+    "previous_id": "gs_141",
+    "original_id": "gs_153",
+    "text": "Depression just seems like a sign of a weak character, don't you think?",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Innocent observation",
+    "notes": "PA innocent observation - general statement meant as personal attack",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Depression just seems like a sign of a weak character, don't you think?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_133",
+    "previous_id": "gs_142",
+    "original_id": "gs_154",
+    "text": "People who vote for that party are idiots.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Innocent observation",
+    "notes": "Aggressive blanket insult targeting specific person indirectly",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "People who vote for that party are idiots."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_134",
+    "previous_id": "gs_143",
+    "original_id": "gs_155",
+    "text": "You never get anything right.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Hostile criticism",
+    "notes": "Aggressive exaggeration/absolute in criticism",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You never get anything right."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_135",
+    "previous_id": "gs_144",
+    "original_id": "gs_156",
+    "text": "You're a terrible parent.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Hostile criticism - pointed barb",
+    "notes": "Aggressive pointed barb - chosen because the title is important to them",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're a terrible parent."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_136",
+    "previous_id": "gs_145",
+    "original_id": "gs_157",
+    "text": "I'm a stockbroker. I'm not sure what you mean.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.12, Ask for clarification",
+    "notes": "Assertive - forcing person to take responsibility for indirect criticism",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Stockbrokers all live only for money."
+      },
+      {
+        "speaker": "B",
+        "text": "I'm a stockbroker. I'm not sure what you mean."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_137",
+    "previous_id": "gs_146",
+    "original_id": "gs_158",
+    "text": "You're incompetent.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.13, Focus on person not behavior",
+    "notes": "Aggressive personality attack instead of behavioral feedback",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're incompetent."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_138",
+    "previous_id": "gs_147",
+    "original_id": "gs_159",
+    "text": "You need more self-esteem.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.13, Focus on person not behavior",
+    "notes": "Aggressive - asks person to change something they can't directly change",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You need more self-esteem."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_139",
+    "previous_id": "gs_148",
+    "original_id": "gs_160",
+    "text": "Franklin, the store has to open promptly at 9 a.m. It's not acceptable to be late this often. Let's sit down and discuss the problem.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.13, Effective feedback example",
+    "notes": "Assertive corrective feedback - behavioral, specific, invites discussion",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Franklin, the store has to open promptly at 9 a.m. It's not acceptable to be late this often. Let's sit down and discuss the problem."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_140",
+    "previous_id": "gs_149",
+    "original_id": "gs_161",
+    "text": "You don't care about this job enough!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.13, Ineffective feedback example",
+    "notes": "Aggressive - personality attack instead of addressing lateness",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You don't care about this job enough!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_141",
+    "previous_id": "gs_150",
+    "original_id": "gs_162",
+    "text": "Next time you're going to fill up the car.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.15, Aggressive requests",
+    "notes": "Aggressive demand rather than request - assumes compliance",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Next time you're going to fill up the car."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_142",
+    "previous_id": "gs_151",
+    "original_id": "gs_163",
+    "text": "Go pick up Uncle Orville at the dock.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.15, Aggressive requests",
+    "notes": "Aggressive demand - order, not request",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Go pick up Uncle Orville at the dock."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_143",
+    "previous_id": "gs_152",
+    "original_id": "gs_165",
+    "text": "Ivan, when I arrived at the river, I realized that you hadn't sent the paddles on ahead. I was frustrated because that meant we didn't have enough for everyone to practice with. I'd like you to come up with a plan to ensure that on future trips everything gets packed and sent, and then run it past me. That way, I can feel more confident taking people out there and I won't be hassling you afterward.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.15, DESO example",
+    "notes": "Assertive full DESO script - Describe, Express, Specify, Outcome",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Ivan, when I arrived at the river, I realized that you hadn't sent the paddles on ahead. I was frustrated because that meant we didn't have enough for everyone to practice with. I'd like you to come up with a plan to ensure that on future trips everything gets packed and sent, and then run it past me. That way, I can feel more confident taking people out there and I won't be hassling you afterward."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_144",
+    "previous_id": "gs_153",
+    "original_id": "gs_166",
+    "text": "That tree needs pruning, doesn't it? I sure wish someone would do it...",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14, Hints",
+    "notes": "PA hinting rather than making direct request",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "That tree needs pruning, doesn't it? I sure wish someone would do it..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_145",
+    "previous_id": "gs_154",
+    "original_id": "gs_167",
+    "text": "Mom, iron my shirt!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14, Unreasonable requests",
+    "notes": "Aggressive demand - order disguised as request",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Mom, iron my shirt!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_146",
+    "previous_id": "gs_155",
+    "original_id": "gs_168",
+    "text": "Can you write this report and put my name on it?",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.14, Unreasonable requests",
+    "notes": "Aggressive exploitation disguised as request",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Can you write this report and put my name on it?"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_147",
+    "previous_id": "gs_156",
+    "original_id": "gs_169",
+    "text": "Right now we're talking about the lawn and I'd like us to stay with that.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.17, Don't Counterattack",
+    "notes": "Assertive redirect - staying on topic when hooked",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're not exactly faultless either, you know. Remember last spring when…"
+      },
+      {
+        "speaker": "B",
+        "text": "Right now we're talking about the lawn and I'd like us to stay with that."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_148",
+    "previous_id": "gs_157",
+    "original_id": "gs_170",
+    "text": "Perhaps, but I'd really like to resolve this issue about our expenses.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.17, Don't Counterattack",
+    "notes": "Assertive redirect - acknowledging other person while returning to topic",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're pretty pushy all of a sudden."
+      },
+      {
+        "speaker": "B",
+        "text": "Perhaps, but I'd really like to resolve this issue about our expenses."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_149",
+    "previous_id": "gs_158",
+    "original_id": "gs_171",
+    "text": "I'm getting so upset that I can't discuss this clearly right now. I'd like to take a breather and try again tomorrow.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.17, Keep Anger on Leash",
+    "notes": "Assertive self-regulation - honest about emotions, takes break",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm getting so upset that I can't discuss this clearly right now. I'd like to take a breather and try again tomorrow."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_150",
+    "previous_id": "gs_159",
+    "original_id": "gs_172",
+    "text": "I'm trying to speak up about things a little more than I used to do. That way, I don't get resentful and everyone doesn't have to guess what I really think.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.5, What Does This Mean problem",
+    "notes": "Assertive disclosure about changing communication style",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm trying to speak up about things a little more than I used to do. That way, I don't get resentful and everyone doesn't have to guess what I really think."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_151",
+    "previous_id": "gs_160",
+    "original_id": "gs_174",
+    "text": "I wasn't impressed by that little radical that you brought over.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads",
+    "notes": "PA goad - attacking someone's friend/partner to provoke reaction",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wasn't impressed by that little radical that you brought over."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_152",
+    "previous_id": "gs_161",
+    "original_id": "gs_175",
+    "text": "I don't think she was trying to impress you.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.3, Goads - circuit breaker reply",
+    "notes": "Assertive - deflects goad without taking bait",
+    "context_source": "source_verbatim",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wasn't impressed by that little radical that you brought over."
+      },
+      {
+        "speaker": "B",
+        "text": "I don't think she was trying to impress you."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_153",
+    "previous_id": "gs_166",
+    "original_id": "gs_182",
+    "text": "I don't count",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I don't count"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_154",
+    "previous_id": "gs_167",
+    "original_id": "gs_183",
+    "text": "My feelings, needs and thoughts are less important than yours",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Passive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "My feelings, needs and thoughts are less important than yours"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_155",
+    "previous_id": "gs_168",
+    "original_id": "gs_184",
+    "text": "I'll get you before you have a chance of getting me",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'll get you before you have a chance of getting me"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_156",
+    "previous_id": "gs_169",
+    "original_id": "gs_185",
+    "text": "I'm out for number one",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I'm out for number one"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_157",
+    "previous_id": "gs_170",
+    "original_id": "gs_186",
+    "text": "The world is a battle ground and I am out to win",
+    "label": "aggressive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Aggressive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "The world is a battle ground and I am out to win"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_158",
+    "previous_id": "gs_171",
+    "original_id": "gs_187",
+    "text": "I won't allow you to take advantage of me and I won't attack you for being who you are",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 2",
+    "notes": "Assertive thinking pattern",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I won't allow you to take advantage of me and I won't attack you for being who you are"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_159",
+    "previous_id": "gs_174",
+    "original_id": "gs_190",
+    "text": "If I keep telling the kids to do their chores they will get annoyed at me and might not like me or think I am a good mum",
+    "label": "passive",
+    "source": "CCI Assert Yourself - Module 10",
+    "notes": "Passive thinking preventing assertive action [Label 'passive' inferred; CCI Module 10 terms this 'unassertive thinking' without explicit passive/aggressive categorization.]",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "If I keep telling the kids to do their chores they will get annoyed at me and might not like me or think I am a good mum"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_160",
+    "previous_id": "gs_175",
+    "original_id": "gs_191",
+    "text": "All kids get annoyed at their mum sometimes, it doesn't mean they don't like them. It is important for the kids to learn how to do chores. To be a good mum sometimes I will have to get the kids to do things they don't like. They may thank me for that later.",
+    "label": "assertive",
+    "source": "CCI Assert Yourself - Module 10",
+    "notes": "Assertive replacement thought",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "All kids get annoyed at their mum sometimes, it doesn't mean they don't like them. It is important for the kids to learn how to do chores. To be a good mum sometimes I will have to get the kids to do things they don't like. They may thank me for that later."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_161",
+    "previous_id": "gs_176",
+    "original_id": "gs_192",
+    "text": "Other people are more important than I am.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Passive belief",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Other people are more important than I am."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_162",
+    "previous_id": "gs_177",
+    "original_id": "gs_193",
+    "text": "My role in life is to be the servant.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Passive belief",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "My role in life is to be the servant."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_163",
+    "previous_id": "gs_178",
+    "original_id": "gs_194",
+    "text": "Other people's contributions are more valuable than mine.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Passive belief",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Other people's contributions are more valuable than mine."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_164",
+    "previous_id": "gs_179",
+    "original_id": "gs_195",
+    "text": "They really deserved it because...",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Aggressive self-justification after outburst",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "They really deserved it because..."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_165",
+    "previous_id": "gs_180",
+    "original_id": "gs_196",
+    "text": "I can't handle this situation unless I intimidate the other person into silence.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Aggressive thinking from low self-esteem",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I can't handle this situation unless I intimidate the other person into silence."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_166",
+    "previous_id": "gs_181",
+    "original_id": "gs_197",
+    "text": "Hey, it worked with Mom—I should try this more often!",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Reinforcement of aggressive style",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Hey, it worked with Mom—I should try this more often!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_167",
+    "previous_id": "gs_182",
+    "original_id": "gs_198",
+    "text": "I wonder why she's been so emotionally distant ever since I convinced her to see my way? Maybe it's time I got angry with her again.",
+    "label": "aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "Failure to see consequences of aggression",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I wonder why she's been so emotionally distant ever since I convinced her to see my way? Maybe it's time I got angry with her again."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_168",
+    "previous_id": "gs_183",
+    "original_id": "gs_199",
+    "text": "Some tasks could safely be ignored. Others could be done in such a way that he wouldn't be asked to do them again.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Alan's story",
+    "notes": "PA strategic thinking about work avoidance",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Some tasks could safely be ignored. Others could be done in such a way that he wouldn't be asked to do them again."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_169",
+    "previous_id": "gs_184",
+    "original_id": "gs_200",
+    "text": "You're entitled to get your own way, even after making commitments to others. You're not responsible for your actions.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Checkpoint table",
+    "notes": "PA belief system",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "You're entitled to get your own way, even after making commitments to others. You're not responsible for your actions."
+      }
+    ],
+    "text_classifiable": false,
+    "exclusion_category": "speaker_intent",
+    "exclusion_reason": "PA label comes from Paterson's checkpoint table describing PA belief system; generic 'you' is descriptive, not accusatory; text reads as aggressive direct attack."
+  },
+  {
+    "id": "gs_170",
+    "previous_id": "gs_185",
+    "original_id": "gs_201",
+    "text": "If I behave helplessly enough, surely someone will come and help me.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2",
+    "notes": "PA desire for rescue through performed helplessness",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "If I behave helplessly enough, surely someone will come and help me."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_171",
+    "previous_id": "gs_186",
+    "original_id": "gs_202",
+    "text": "Not only do I have all these problems, but I'm at fault for creating them!",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Nadia's journey",
+    "notes": "Passive self-blame",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Not only do I have all these problems, but I'm at fault for creating them!"
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_172",
+    "previous_id": "gs_187",
+    "original_id": "gs_203",
+    "text": "Your needs and those of others are equally important. You have equal rights to express yourselves. You both have something valuable to contribute.",
+    "label": "assertive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.2, Checkpoint table",
+    "notes": "Assertive belief system",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "Your needs and those of others are equally important. You have equal rights to express yourselves. You both have something valuable to contribute."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_173",
+    "previous_id": "gs_188",
+    "original_id": "gs_205",
+    "text": "I know, I'll leave the car almost empty. Then he'll be forced to gas it up.",
+    "label": "passive-aggressive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.15",
+    "notes": "PA manipulation - orchestrating circumstances to force behavior",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I know, I'll leave the car almost empty. Then he'll be forced to gas it up."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_174",
+    "previous_id": "gs_189",
+    "original_id": "gs_206",
+    "text": "We're always going to the beach, and I hate the beach—though, come to think of it, I never say so.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Passive self-awareness of own failure to voice preferences",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "We're always going to the beach, and I hate the beach—though, come to think of it, I never say so."
+      }
+    ],
+    "text_classifiable": true
+  },
+  {
+    "id": "gs_175",
+    "previous_id": "gs_190",
+    "original_id": "gs_207",
+    "text": "I feel overwhelmed and resentful at doing so much for my charity organization, but I put my hand up every time they ask for volunteers.",
+    "label": "passive",
+    "source": "Paterson, R. J. (2022). The Assertiveness Workbook (2nd ed.). New Harbinger Publications., Ch.16",
+    "notes": "Passive pattern - automatic volunteering",
+    "context_source": "none",
+    "conversation": [
+      {
+        "speaker": "A",
+        "text": "I feel overwhelmed and resentful at doing so much for my charity organization, but I put my hand up every time they ask for volunteers."
+      }
+    ],
+    "text_classifiable": true
+  }
+]

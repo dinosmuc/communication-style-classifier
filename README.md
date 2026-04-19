@@ -21,7 +21,7 @@ communication-style-classifier/
 │   └── annotation_config.py           # LLM annotation settings
 ├── data/
 │   ├── raw/                           # Unprocessed downloads (gitignored)
-│   ├── gold_standard/                 # Expert-labeled test set (tracked)
+│   ├── ground_truth/                  # Expert-labeled test set (tracked)
 │   ├── annotated/                     # LLM-labeled training data (gitignored)
 │   └── cleaned/                       # Final training data (gitignored)
 ├── src/

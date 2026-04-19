@@ -1,0 +1,1443 @@
+{
+  "model": "claude-opus-4-6",
+  "total": 48,
+  "with_context": {
+    "correct": 37,
+    "accuracy": 0.7708
+  },
+  "without_context": {
+    "correct": 36,
+    "accuracy": 0.75
+  },
+  "delta": 0.0208,
+  "breakdown": {
+    "both_correct": 31,
+    "only_with_context_correct": 6,
+    "only_without_context_correct": 5,
+    "neither_correct": 6
+  },
+  "per_class": {
+    "assertive": {
+      "total": 26,
+      "with_context_correct": 23,
+      "without_context_correct": 21,
+      "with_context_accuracy": 0.8846,
+      "without_context_accuracy": 0.8077
+    },
+    "aggressive": {
+      "total": 5,
+      "with_context_correct": 3,
+      "without_context_correct": 4,
+      "with_context_accuracy": 0.6,
+      "without_context_accuracy": 0.8
+    },
+    "passive": {
+      "total": 11,
+      "with_context_correct": 8,
+      "without_context_correct": 8,
+      "with_context_accuracy": 0.7273,
+      "without_context_accuracy": 0.7273
+    },
+    "passive-aggressive": {
+      "total": 6,
+      "with_context_correct": 3,
+      "without_context_correct": 3,
+      "with_context_accuracy": 0.5,
+      "without_context_accuracy": 0.5
+    }
+  },
+  "comparisons": [
+    {
+      "id": "gs_001",
+      "text": "When you are late for a meeting with me, I get pretty frustrated. I wish that yo...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.03,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.03,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_002",
+      "text": "Joe, I've noticed you've been late for the last few days when I've come to pick ...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.97,
+        "distribution": {
+          "assertive": 0.97,
+          "aggressive": 0.02,
+          "passive": 0.01,
+          "passive_aggressive": 0.0
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.97,
+        "distribution": {
+          "assertive": 0.97,
+          "aggressive": 0.02,
+          "passive": 0.01,
+          "passive_aggressive": 0.0
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_036",
+      "text": "I haven't thought about that before, I'd like time to think about your idea.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.0,
+          "passive": 0.12,
+          "passive_aggressive": 0.03
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.0,
+          "passive": 0.12,
+          "passive_aggressive": 0.03
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_039",
+      "text": "I appreciate that you don't like the new procedure, however, until it's changed,...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.92,
+          "aggressive": 0.05,
+          "passive": 0.01,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.92,
+          "aggressive": 0.05,
+          "passive": 0.02,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_049",
+      "text": "I can't lend you any money. I've run out.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.05,
+          "passive": 0.08,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.7,
+          "aggressive": 0.1,
+          "passive": 0.15,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_051",
+      "text": "I realise that would have made things easier, however, I would still like to rep...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.02,
+          "passive": 0.06,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.92,
+          "aggressive": 0.02,
+          "passive": 0.05,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_059",
+      "text": "How dare you, I'm not late. You're the one who is always late.",
+      "expert_label": "aggressive",
+      "with_context": {
+        "predicted": "aggressive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.9,
+          "passive": 0.0,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "aggressive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.03,
+          "aggressive": 0.92,
+          "passive": 0.01,
+          "passive_aggressive": 0.04
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_060",
+      "text": "Yes you're right I am... I'm useless, and I've got to stop.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.0,
+          "passive": 0.75,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.0,
+          "passive": 0.75,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_061",
+      "text": "Yes, it's true, I'm not very tidy.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.72,
+        "distribution": {
+          "assertive": 0.72,
+          "aggressive": 0.02,
+          "passive": 0.22,
+          "passive_aggressive": 0.04
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.45,
+        "distribution": {
+          "assertive": 0.35,
+          "aggressive": 0.0,
+          "passive": 0.45,
+          "passive_aggressive": 0.0
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_062",
+      "text": "In what ways do you think I'm shy?",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.05,
+          "passive": 0.05,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.65,
+          "aggressive": 0.1,
+          "passive": 0.15,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_063",
+      "text": "No, I'm not always late. I may be late occasionally, but I'm certainly not alway...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.08,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.05,
+          "passive": 0.03,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_065",
+      "text": "You're certainly right that I did forget to pick up the kids last week after the...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.82,
+        "distribution": {
+          "assertive": 0.82,
+          "aggressive": 0.02,
+          "passive": 0.12,
+          "passive_aggressive": 0.04
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.75,
+          "aggressive": 0.05,
+          "passive": 0.15,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_067",
+      "text": "Yes, it's true, I don't have a job.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.7,
+          "aggressive": 0.05,
+          "passive": 0.2,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.45,
+        "distribution": {
+          "assertive": 0.35,
+          "aggressive": 0.0,
+          "passive": 0.45,
+          "passive_aggressive": 0.2
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_068",
+      "text": "You're right I may get gum disease.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.8,
+        "distribution": {
+          "assertive": 0.8,
+          "aggressive": 0.02,
+          "passive": 0.13,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.65,
+          "aggressive": 0.05,
+          "passive": 0.2,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_069",
+      "text": "You're right; if the chisel slips it will really mess up the wood.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.02,
+          "passive": 0.1,
+          "passive_aggressive": 0.03
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.1,
+          "passive": 0.25,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_071",
+      "text": "really, I don't like the colour of the dress at all.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.65,
+          "aggressive": 0.15,
+          "passive": 0.05,
+          "passive_aggressive": 0.15
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.75,
+          "aggressive": 0.15,
+          "passive": 0.05,
+          "passive_aggressive": 0.05
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_072",
+      "text": "oh, this old thing, it's nothing special.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.88,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.0,
+          "passive": 0.88,
+          "passive_aggressive": 0.07
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.0,
+          "passive": 0.85,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_073",
+      "text": "Yeah right, it's just gorgeous isn't it?",
+      "expert_label": "aggressive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.05,
+          "passive": 0.15,
+          "passive_aggressive": 0.75
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.05,
+          "passive": 0.05,
+          "passive_aggressive": 0.85
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_074",
+      "text": "The overnight shift? The day after my wedding? Um, well, sure, OK. No, no troubl...",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.03,
+          "aggressive": 0.02,
+          "passive": 0.9,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.03,
+          "aggressive": 0.02,
+          "passive": 0.75,
+          "passive_aggressive": 0.2
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_075",
+      "text": "Bob's Salmonella Shack for dinner? Oh, uh, yeah, that sounds like a great place!",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.05,
+          "passive": 0.3,
+          "passive_aggressive": 0.6
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.03,
+          "aggressive": 0.02,
+          "passive": 0.1,
+          "passive_aggressive": 0.85
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_078",
+      "text": "Oh, no, I didn't mean that. I feel the same as you.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.0,
+          "passive": 0.9,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.82,
+        "distribution": {
+          "assertive": 0.08,
+          "aggressive": 0.02,
+          "passive": 0.82,
+          "passive_aggressive": 0.08
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_081",
+      "text": "Damn, I forgot them again.",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.1,
+          "passive": 0.3,
+          "passive_aggressive": 0.05
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.45,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.1,
+          "passive": 0.45,
+          "passive_aggressive": 0.3
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_082",
+      "text": "No, I really wanted to be on time, but the bus was late.",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.25,
+          "aggressive": 0.05,
+          "passive": 0.55,
+          "passive_aggressive": 0.15
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.1,
+          "passive": 0.25,
+          "passive_aggressive": 0.1
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_084",
+      "text": "You're right, I should never have asked you to work late. I'm the worst manager ...",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.05,
+          "passive": 0.2,
+          "passive_aggressive": 0.7
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.82,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.03,
+          "passive": 0.82,
+          "passive_aggressive": 0.1
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_088",
+      "text": "I have to leave for my appointment in just a few minutes. When would be a good t...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.02,
+          "passive": 0.05,
+          "passive_aggressive": 0.03
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.02,
+          "passive": 0.02,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_089",
+      "text": "I need some time to think out what I want to say. Would you be willing to meet T...",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.01,
+          "passive": 0.03,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.01,
+          "passive": 0.03,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_095",
+      "text": "You don't see why I can't? Let's see if I can explain it better...",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.2,
+          "aggressive": 0.1,
+          "passive": 0.15,
+          "passive_aggressive": 0.55
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.2,
+          "aggressive": 0.05,
+          "passive": 0.55,
+          "passive_aggressive": 0.15
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": true
+    },
+    {
+      "id": "gs_099",
+      "text": "No, I like to have that one in the kitchen.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.05,
+          "passive": 0.03,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.08,
+          "passive": 0.05,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_101",
+      "text": "Oh, I can drive you.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.0,
+          "passive": 0.75,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.72,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.0,
+          "passive": 0.72,
+          "passive_aggressive": 0.13
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_107",
+      "text": "What are you talking about? Last March I pruned the rose bushes!",
+      "expert_label": "aggressive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.15,
+          "passive": 0.05,
+          "passive_aggressive": 0.7
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "aggressive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.3,
+          "aggressive": 0.55,
+          "passive": 0.03,
+          "passive_aggressive": 0.12
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": true
+    },
+    {
+      "id": "gs_108",
+      "text": "How dare you say no to me? I'll show you!",
+      "expert_label": "aggressive",
+      "with_context": {
+        "predicted": "aggressive",
+        "confidence": 0.97,
+        "distribution": {
+          "assertive": 0.01,
+          "aggressive": 0.97,
+          "passive": 0.0,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "aggressive",
+        "confidence": 0.97,
+        "distribution": {
+          "assertive": 0.01,
+          "aggressive": 0.97,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_109",
+      "text": "You can pay in installments if you like. Do you have any now?",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.2,
+          "passive": 0.1,
+          "passive_aggressive": 0.15
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.15,
+          "passive": 0.2,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_110",
+      "text": "This is all ancient history. Why are you such a miser all of a sudden?",
+      "expert_label": "aggressive",
+      "with_context": {
+        "predicted": "aggressive",
+        "confidence": 0.78,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.78,
+          "passive": 0.02,
+          "passive_aggressive": 0.15
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "aggressive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.85,
+          "passive": 0.05,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_112",
+      "text": "I love the way she stands her ground.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.5,
+        "distribution": {
+          "assertive": 0.3,
+          "aggressive": 0.05,
+          "passive": 0.05,
+          "passive_aggressive": 0.5
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.75,
+          "aggressive": 0.05,
+          "passive": 0.15,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": true
+    },
+    {
+      "id": "gs_114",
+      "text": "I think it's a fine profession too. That's why I'm doing it.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.6,
+        "distribution": {
+          "assertive": 0.6,
+          "aggressive": 0.1,
+          "passive": 0.05,
+          "passive_aggressive": 0.25
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.75,
+          "aggressive": 0.1,
+          "passive": 0.05,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_116",
+      "text": "You're probably right. Good thing I don't paint for a living.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.05,
+          "passive": 0.15,
+          "passive_aggressive": 0.65
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.0,
+          "passive": 0.55,
+          "passive_aggressive": 0.3
+        },
+        "correct": false
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_118",
+      "text": "I know. I'll be back by ten.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.15,
+          "aggressive": 0.05,
+          "passive": 0.15,
+          "passive_aggressive": 0.65
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.15,
+          "passive": 0.2,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": true
+    },
+    {
+      "id": "gs_129",
+      "text": "Actually, I don't find trans jokes funny.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.03,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.92,
+          "aggressive": 0.04,
+          "passive": 0.02,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_132",
+      "text": "No, I don't. I look awful.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.1,
+          "passive": 0.7,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.05,
+          "passive": 0.75,
+          "passive_aggressive": 0.1
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_133",
+      "text": "Why would you think that? You must be deaf.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.2,
+          "passive": 0.55,
+          "passive_aggressive": 0.15
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "aggressive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.02,
+          "aggressive": 0.95,
+          "passive": 0.01,
+          "passive_aggressive": 0.02
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_134",
+      "text": "I guess it wasn't too bad for an old fat guy.",
+      "expert_label": "passive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.02,
+          "passive": 0.85,
+          "passive_aggressive": 0.08
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.75,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.05,
+          "passive": 0.75,
+          "passive_aggressive": 0.15
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_146",
+      "text": "I'm a stockbroker. I'm not sure what you mean.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.7,
+        "distribution": {
+          "assertive": 0.7,
+          "aggressive": 0.1,
+          "passive": 0.15,
+          "passive_aggressive": 0.05
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive",
+        "confidence": 0.5,
+        "distribution": {
+          "assertive": 0.35,
+          "aggressive": 0.02,
+          "passive": 0.5,
+          "passive_aggressive": 0.13
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_157",
+      "text": "Right now we're talking about the lawn and I'd like us to stay with that.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.92,
+        "distribution": {
+          "assertive": 0.92,
+          "aggressive": 0.05,
+          "passive": 0.01,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.95,
+        "distribution": {
+          "assertive": 0.95,
+          "aggressive": 0.03,
+          "passive": 0.01,
+          "passive_aggressive": 0.01
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_158",
+      "text": "Perhaps, but I'd really like to resolve this issue about our expenses.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.9,
+          "aggressive": 0.02,
+          "passive": 0.05,
+          "passive_aggressive": 0.03
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "assertive",
+        "confidence": 0.85,
+        "distribution": {
+          "assertive": 0.85,
+          "aggressive": 0.05,
+          "passive": 0.08,
+          "passive_aggressive": 0.02
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_162",
+      "text": "I don't think she was trying to impress you.",
+      "expert_label": "assertive",
+      "with_context": {
+        "predicted": "assertive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.55,
+          "aggressive": 0.2,
+          "passive": 0.05,
+          "passive_aggressive": 0.2
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.5,
+        "distribution": {
+          "assertive": 0.2,
+          "aggressive": 0.15,
+          "passive": 0.1,
+          "passive_aggressive": 0.5
+        },
+        "correct": false
+      },
+      "context_helped": true,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_174",
+      "text": "I said 'yes' to go shopping with her when I didn't want to. So she should have s...",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "passive",
+        "confidence": 0.55,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.2,
+          "passive": 0.55,
+          "passive_aggressive": 0.2
+        },
+        "correct": false
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.45,
+        "distribution": {
+          "assertive": 0.05,
+          "aggressive": 0.2,
+          "passive": 0.3,
+          "passive_aggressive": 0.45
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": true
+    },
+    {
+      "id": "gs_194",
+      "text": "I guess we're not going out tonight then. Thanks for telling me.",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.78,
+        "distribution": {
+          "assertive": 0.08,
+          "aggressive": 0.05,
+          "passive": 0.09,
+          "passive_aggressive": 0.78
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.9,
+        "distribution": {
+          "assertive": 0.03,
+          "aggressive": 0.05,
+          "passive": 0.02,
+          "passive_aggressive": 0.9
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    },
+    {
+      "id": "gs_200",
+      "text": "Well, it's the most expensive coat I've ever bought!",
+      "expert_label": "passive-aggressive",
+      "with_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.65,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.1,
+          "passive": 0.15,
+          "passive_aggressive": 0.65
+        },
+        "correct": true
+      },
+      "without_context": {
+        "predicted": "passive-aggressive",
+        "confidence": 0.45,
+        "distribution": {
+          "assertive": 0.1,
+          "aggressive": 0.1,
+          "passive": 0.25,
+          "passive_aggressive": 0.45
+        },
+        "correct": true
+      },
+      "context_helped": false,
+      "context_hurt": false
+    }
+  ]
+}
